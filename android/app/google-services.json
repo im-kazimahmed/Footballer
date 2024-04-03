@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280519568075",
+    "project_id": "footballer-livescore-gmg",
+    "storage_bucket": "footballer-livescore-gmg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280519568075:android:4b1afa5c03d9c26706894e",
+        "android_client_info": {
+          "package_name": "com.score.footballer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280519568075-b8d4tudgfqlr4fscc18949oqulfl5t7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzMQrL8fHfre-ITg5lz8qrCdGSSHmbzH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280519568075-b8d4tudgfqlr4fscc18949oqulfl5t7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
